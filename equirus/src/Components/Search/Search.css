@@ -1,0 +1,20 @@
+.search{
+  width: 70%;
+  align-items: center;
+  margin: auto;
+  
+}
+.input{
+  display: flex;
+  width: 100%;
+  border-radius: 10px;
+  padding: 10px 30px;
+  margin-top: auto;
+}
+img{
+  width: 20px;
+  height: 20px;
+  justify-content: center;
+  align-items: center;
+
+}

@@ -1,0 +1,21 @@
+.data{
+  background-color:antiquewhite;
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+}
+
+.dataimg{
+  width: 100px;
+  height: 100px;
+  display: inline;
+}
+
+.userdata{
+  width: 60%;
+  padding: 40px;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+

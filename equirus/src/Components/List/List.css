@@ -1,0 +1,8 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  background-color: #e0e4ee;
+    border-radius: 20px;
+    margin-left: 100px;
+}

@@ -1,0 +1,17 @@
+.user{
+  padding: 15px;
+  margin-bottom: 5px;
+  height: 30px;
+}
+.user:hover{
+  background-color: aqua;
+}
+.img{
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20px;
+}

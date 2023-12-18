@@ -1,0 +1,11 @@
+.display{
+  width: 80%;
+  margin: auto;
+}
+
+.wrapper{
+  display: flex;
+  margin: auto;
+  justify-content: space-around;
+
+}
